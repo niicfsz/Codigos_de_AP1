@@ -18,7 +18,7 @@ int main(){
     med = (n1+n2+n3)/3;
 
 //exibindo o resultado na tela
-    printf("\nEssa eh a media do aluno: %.2f", med);
+    printf("\n\nEssa eh a media do aluno: %.2f\n", med);
 
 return 0;
 }
