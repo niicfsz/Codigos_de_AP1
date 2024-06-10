@@ -14,7 +14,7 @@ int main(){
     fahrenheit = (celcius * 9/5) + 32;
 
 //exibindo a informação na tela
-    printf("Sua temperatura em fahrenheit eh: %.1f F", fahrenheit);
+    printf("\n\nSua temperatura em fahrenheit eh: %.1f F\n", fahrenheit);
 
 return 0;
 }
