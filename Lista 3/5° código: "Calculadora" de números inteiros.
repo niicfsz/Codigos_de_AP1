@@ -8,9 +8,9 @@ int main(){
     float div;
 
 //solicitando ao usuário as informações necessárias
-    printf("digite um numero inteiro: ");
+    printf("Digite um numero inteiro: ");
     scanf("%d", &n1);
-    printf("digite outro numero inteiro: ");
+    printf("Digite outro numero inteiro: ");
     scanf("%d", &n2);
     
 //efetuando os cálculos
@@ -20,10 +20,10 @@ int main(){
     div = n1/n2;
 
 //exibindo os resultados
-    printf("\n essa eh a soma de seus numeros: %d", som);
-    printf("\n essa eh a subtracao de seus numeros: %d", sub);
-    printf("\n essa eh a multiplicacao de seus numeros: %d", mul);
-    printf("\n e essa eh a divisao de seus numeros: %.2f", div);
+    printf("\n Essa eh a soma de seus numeros: %d", som);
+    printf("\n Essa eh a subtracao de seus numeros: %d", sub);
+    printf("\n Essa eh a multiplicacao de seus numeros: %d", mul);
+    printf("\n E essa eh a divisao de seus numeros: %.2f\n", div);
 
 return 0;
 }
