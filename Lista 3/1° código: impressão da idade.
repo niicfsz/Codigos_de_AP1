@@ -12,7 +12,7 @@ int main()
 
 //Exibindo a idade desejada na tela
     scanf("%d", &idade);
-    printf("Voce tem: %d anos", idade);
+    printf("\n\nVoce tem: %d anos", idade\n);
 
 return 0;
 
