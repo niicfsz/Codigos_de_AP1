@@ -16,7 +16,7 @@ int main(){
     area = base * altura;
 
 //exibindo o resultado na tela
-    printf("A area de seu retangulo eh: %d cm^2 ", area);
+    printf("\n\nA area de seu retangulo eh: %d cm^2 \n", area);
 
 return 0;
 }
