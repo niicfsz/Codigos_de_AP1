@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+
+//declarando variáveis
+    float peso, altura, altura2, imc;
+
+//solicitando ao usuário as informações necessárias
+    printf("Digite seu peso em quilogramas: ");
+    scanf("%f", &peso);
+    printf("Digite sua altura em metros: ");
+    scanf("%f", &altura);
+
+//calculando o imc
+    altura2 = (altura*altura);
+    imc = (peso/altura2);
+
+//exibindo o resultado na tela
+    printf("Seu imc eh equivalente a: %.2f", imc);
+
+return 0;
+}
