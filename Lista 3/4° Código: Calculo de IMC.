@@ -17,7 +17,7 @@ int main(){
     imc = (peso/altura2);
 
 //exibindo o resultado na tela
-    printf("Seu imc eh equivalente a: %.2f", imc);
+    printf("\n\nSeu imc eh equivalente a: %.2f\n", imc);
 
 return 0;
 }
