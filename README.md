@@ -7,7 +7,7 @@ Os programas dentro das listas abaixo foram realizados como maneira de estudo pa
 
 🕷️ [Lista 4](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%204)
 
-🕷️5° Lista:
+🕷️ [Lista 5](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%205)
 
 🕷️6° Lista:
 
