@@ -1,8 +1,8 @@
-![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2)
+![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) 
 
 ![fontbolt](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/84225f0f-d9c3-42c1-a4c9-3c3c067a82c6)
 
-![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/0cd38a6e-6247-4a61-afe2-f9595af23074) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2)
+![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/0cd38a6e-6247-4a61-afe2-f9595af23074) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) ![EdWC](https://github.com/niicfsz/Codigos_de_AP1/assets/167145187/4faa9f3d-39b9-4a33-8d37-91c2906e97b2) 
 
 
 Códigos desenvolvidos ao decorrer das aulas de AP1 da Universidade Federal de Jataí no 1º período.
