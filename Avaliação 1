@@ -1,4 +1,4 @@
-# O código a seguir foi realizado durante uma prova, o programa consistia em uma interface que pedia o usuário um determinado produto e um cupom para aplicar um desconto.
+//O código a seguir foi realizado durante uma prova, o programa consistia em uma interface que pedia o usuário um determinado produto e um cupom para aplicar um desconto.
 
 #include <stdio.h>
 
