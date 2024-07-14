@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+int main(){
+
+    int i, j, matriz[3][3], n, n1 = 0;
+
+    printf("Digite os elementos da matriz 3 por 3:\n");
+    for(i = 0; i < 3; i++){
+        for(j = 0; j < 3; j++){
+            printf("Elemento [%d][%d]: ", i, j);
+            scanf("%d", &matriz[i][j]);
+        }
+    }
+
+    printf("\nDigite o numero que deseja procurar: ");
+    scanf("%d", &n);
+
+    for(i = 0; i < 3; i++){
+        for(j = 0; j < 3; j++){
+            if(matriz[i][j] == n) {
+                n1 = 1;
+                break;
+            }
+        }
+        if (n1) {
+            break;
+        }
+    }
+
+    if(n1){
+        printf("\nO numero digitado esta na matriz!\n\n");
+    } else{
+        printf("\nO numero digitado nao esta na matriz!\n\n");
+    }
+}
