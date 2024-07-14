@@ -1,0 +1,75 @@
+//O código a seguir foi realizado durante uma prova, o programa consistia em uma interface que pedia o usuário um determinado produto e um cupom para aplicar um desconto.
+
+#include <stdio.h>
+
+int main(){
+
+    //declarando variáveis
+    int valorp;
+    float valor0, valorf, valord;
+    char desconto;
+
+    //solicitando ao usuário o valor da compra
+    printf("digite o valor total da compra: ");
+    if (scanf("%f", &valor0) != 1 || valor0 <= 0){
+            printf("\no valor digitado eh invalido, por favor digite novamente.\n");
+
+            return 1;
+    }
+
+    //limpando o buffer de entrada
+    setbuf(stdin, NULL);
+
+    //solicitando o tipo de cupom
+    printf("selecione um dos cupons: ");
+    scanf("%c", &desconto);
+
+    //verificando e calculando o desconto do cupom escolhido
+    switch (desconto){
+    case 'A':
+    case 'a':
+        valorf = 0.9 * valor0;
+        valorp = 10;
+        valord = 0.1 * valor0;
+        break;
+    case 'B':
+    case 'b':
+        valorf = 0.8 * valor0;
+        valorp = 20;
+        valord = 0.2 * valor0;
+        break;
+    case 'C':
+    case 'c':
+        valorf = 0.7 * valor0;
+        valorp = 30;
+        valord = 0.3 * valor0;
+        break;
+    case 'D':
+    case 'd':
+        valorf = 0.6 * valor0;
+        valorp = 40;
+        valord = 0.4 * valor0;
+        break;
+    case 'E':
+    case 'e':
+        valorf = 0.5 * valor0;
+        valorp = 50;
+        valord = 0.5 * valor0;
+        break;
+    default:
+        printf("\no cupom digitado eh invalido, por favor, digite novamente.\n");
+
+        return 1;
+    }
+
+    //exibindo a nota fiscal
+    printf("\no valor total da compra sem o desconto foi: %.2f", valor0);
+    printf("\no cupom escolhido foi: %c, e seu desconto foi de: %d porcento", desconto, valorp);
+    printf("\no valor do desconto obtido foi de: %.2f", valord);
+    printf("\no valor final da compra com o desconto eh: %.2f\n", valorf);
+
+    return 0;
+}
+
+
+
