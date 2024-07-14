@@ -11,11 +11,17 @@ Os programas dentro das listas abaixo foram realizados como maneira de estudo pa
 
 🕷️ [Lista 6](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%206)
 
-🕷️7° Lista:
+🕷️ [Lista 7](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%207)
 
-🕷️8° Lista:
+🕷️ [Lista 8](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%208)
 
-🕷️9° Lista:
+🕷️ [Lista 9](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%209)
+
+🕷️ [Lista 10](https://github.com/niicfsz/Codigos_de_AP1/tree/main/Lista%2010)
+
+🕷️ [Avaliação 1](https://github.com/niicfsz/Codigos_de_AP1/blob/main/Avalia%C3%A7%C3%A3o%201)
+
+🕷️ [Avaliação 2](https://github.com/niicfsz/Codigos_de_AP1/blob/main/Avalia%C3%A7%C3%A3o%202)
 
 # Agradecimentos
 Muito obrigado por ter lido até aqui, sinta-se livre para voltar quando quiser!
