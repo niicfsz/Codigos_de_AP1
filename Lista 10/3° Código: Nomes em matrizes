@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char matriz[3][3][50];
+    int i, j;
+
+
+    printf("Digite 9 nomes para a matriz 3 por 3:\n");
+    for (i = 0; i < 3; i++) {
+        for (j = 0; j < 3; j++) {
+            printf("Nome [%d][%d]: ", i, j);
+            scanf("%s", matriz[i][j]);
+        }
+    }
+
+
+    printf("\nSua matriz 3 por 3 eh:\n");
+    for (i = 0; i < 3; i++) {
+        for (j = 0; j < 3; j++) {
+            printf("[%s]\t", matriz[i][j]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
